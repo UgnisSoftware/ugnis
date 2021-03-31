@@ -1,6 +1,7 @@
 {
   "include": ["src", "types"],
   "compilerOptions": {
+    "incremental": true,
     "module": "esnext",
     "target": "esnext",
     "moduleResolution": "node",

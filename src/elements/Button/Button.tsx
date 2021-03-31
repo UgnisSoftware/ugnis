@@ -32,7 +32,7 @@ const ButtonBase = styled.button<ButtonBaseProps>`
   position: relative;
   white-space: nowrap;
   border-style: none;
-  border-radius: ${themeGet('radii.buttonRadii')};
+  border-radius: ${themeGet('radii.1')};
   ${(props) => props.sizeStyle};
 
   ${borders};

@@ -151,10 +151,10 @@ export const themeProps = {
     12: '256px',
   },
   sizes: {
-    switch: {
-      height: '22px',
-      width: '44px',
-    },
+    // switch: {
+    //   height: '22px',
+    //   width: '44px',
+    // },
   },
   typeSizes: {
     sans: {
@@ -302,7 +302,7 @@ export const themeProps = {
     semibold: 500,
   },
   radii: {
-    buttonRadii: '4px',
+    '1': '4px',
     round: '50%',
     pill: '100px',
   },
